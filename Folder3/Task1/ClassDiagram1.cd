@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ManualFourDz1.Ellipse" Collapsed="true">
+    <Position X="5.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAABAAAAAAAAQAAAAAAAAAAAAAAEAQA=</HashCode>
+      <FileName>Figures\ellipse.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ManualFourDz1.Parallelogram" Collapsed="true">
+    <Position X="10.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAEAQA=</HashCode>
+      <FileName>Figures\Parallelogram.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ManualFourDz1.Rectangle" Collapsed="true">
+    <Position X="14.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAEAQA=</HashCode>
+      <FileName>Figures\Rectangle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ManualFourDz1.Rhombus" Collapsed="true">
+    <Position X="19.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAEAQA=</HashCode>
+      <FileName>Figures\Rhombus.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ManualFourDz1.Square" Collapsed="true">
+    <Position X="8" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAEAQA=</HashCode>
+      <FileName>Figures\Square.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ManualFourDz1.Trapeze" Collapsed="true">
+    <Position X="12.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAEAQA=</HashCode>
+      <FileName>Figures\Trapeze.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ManualFourDz1.Triangle" Collapsed="true">
+    <Position X="17" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAEAQA=</HashCode>
+      <FileName>Figures\Triangle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ManualFourDz1.Сircle" Collapsed="true">
+    <Position X="21.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAEAQA=</HashCode>
+      <FileName>Figures\Сircle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ManualFourDz1.CompoundShape" Collapsed="true">
+    <Position X="12.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAgAAAAEIAA=</HashCode>
+      <FileName>CompoundShape.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ManualFourDz1.GeometricalFigure" Collapsed="true">
+    <Position X="14.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgAAAAAAABAAACAIAAAAAAAAAAAAABAAAUAQA=</HashCode>
+      <FileName>GeometricalFigure.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ManualFourDz1.Task1_Main" Collapsed="true">
+    <Position X="14.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Task1_Main.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
